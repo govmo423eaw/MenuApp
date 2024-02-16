@@ -1,0 +1,7 @@
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="action_cat_male">Кот</string>
+    <string name="action_cat_female">Кошка</string>
+    <string name="action_kitten">Котёнок</string>
+    <string name="app_name">Меню приложение</string>
+</resources>
